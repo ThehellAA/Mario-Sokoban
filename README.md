@@ -1,5 +1,5 @@
 # Mario-Sokoban
-## By Karim Ouhammi
+### By Karim Ouhammi
 
 Mario Sokoban is a 2 dimensionals game designed and developed by Karim Ouhammi in 2017 using Simple DirectMedia Layer library (SDL). This game is inspired from the Sokoban game created by Hiroyuki Imabayashi.
 
